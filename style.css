@@ -5,7 +5,9 @@
 
 }
 body{
-    
+    font-family:'epaomayek' ;
+    src: url('EPAOMAYEK.TTF')format('truetype');
+    font-size:30px;
     background-color:  burlywood;
     padding:30px;
     line-height:normal;
