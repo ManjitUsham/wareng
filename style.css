@@ -89,6 +89,10 @@ font-size: 30px;
     text-align: left;
     color: black;
     text-align: center;
+
+     font-family:'epaomayek' ;
+    src: url('EPAOMAYEK.TTF')format('truetype');
+    font-size:30px;
     
     }
 
@@ -113,6 +117,9 @@ font-size: 30px;
     display:inline-block;
     color:gold;
     margin-left:0px;
+       font-family:'epaomayek' ;
+    src: url('EPAOMAYEK.TTF')format('truetype');
+    font-size:30px;
     
   }
   .wareng{
@@ -126,6 +133,9 @@ font-size: 30px;
     margin-left: 0%;
     color:rgba(107, 37, 18, 0.942);
     margin-top: 100px;
+       font-family:'epaomayek' ;
+    src: url('EPAOMAYEK.TTF')format('truetype');
+    font-size:30px;
   }
   .wareng h2{
     text-align: center;
